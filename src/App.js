@@ -135,7 +135,7 @@ export const StyledImg3 = styled.img`
 `;
 
 export const StyledImg4 = styled.img`
-  width: 250px;
+  width: 550px;
   height: 550px;
 
 `;
