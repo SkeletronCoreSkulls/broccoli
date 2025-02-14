@@ -135,14 +135,14 @@ export const StyledImg3 = styled.img`
 `;
 
 export const StyledImg4 = styled.img`
-  width: 550px;
-  height: 550px;
+  width: 225px;
+  height: 225px;
 
 `;
 
 export const StyledImg5 = styled.img`
-  width: 650px;
-  height: 600px;
+  width: 450px;
+  height: 400px;
 
 `;
 
