@@ -296,14 +296,14 @@ function App() {
 
   const handleTwitter = () => {
     window.open(
-      'https://twitter.com/Broccoli_NFTs',
+      'https://twitter.com/Broccoli714NFT',
       '_blank'
     );
   };
 
   const handleTg = () => {
     window.open(
-      'https://t.me/sonic_punks',
+      '',
       '_blank'
     );
   };
