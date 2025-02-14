@@ -418,6 +418,7 @@ const handleOpensea = () => {
         </s.TextTitle>
 
         <s.SpacerLargeX/>
+        <s.SpacerMedium/>
 
        <div className="grid2" style={{display:"flex", marginLeft: "60px",}}>
         <StyledImg4
