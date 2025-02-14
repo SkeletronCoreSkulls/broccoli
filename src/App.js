@@ -715,7 +715,7 @@ const handleOpensea = () => {
                         }}
                       >
                         
-                        Please wait and try again.
+                        Please confirm that your wallet is connected to the BNB Chain
                       </s.TextDescription>
                       
                     </>
