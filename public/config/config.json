@@ -2,15 +2,15 @@
   "CONTRACT_ADDRESS": "0x9d6173f2d54785556107e47cca7f5e3eac6badb4",
   "SCAN_LINK": "0x9d6173f2d54785556107e47cca7f5e3eac6badb4",
   "NETWORK": {
-    "NAME": "Sonic",
-    "SYMBOL": "S",
-    "ID": 146
+    "NAME": "BNB Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
   },
-  "NFT_NAME": "Sonic Punks",
-  "SYMBOL": "SP",
-  "MAX_SUPPLY": 5555,
+  "NFT_NAME": "Broccoli NFTs",
+  "SYMBOL": "BC",
+  "MAX_SUPPLY": 714,
   "WEI_COST": 33000000000000000000,
-  "DISPLAY_COST": 33,
+  "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Soon",
   "MARKETPLACE_LINK": "",
