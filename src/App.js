@@ -419,14 +419,21 @@ const handleOpensea = () => {
 
         <s.SpacerLargeX/>
 
-        <div className="grid2" style={{display:"flex", marginLeft: "60px",}}>
-
+       <div className="grid2" style={{display:"flex", marginLeft: "60px",}}>
+        <StyledImg4
+        src={"/config/images/punks1.png"}
+        >
+        </StyledImg4>
+        <s.SpacerLargeX/>
         <StyledImg5
         src={"/config/images/image11.png"}
         >
         </StyledImg5>
-
-    
+        <s.SpacerLargeX/>
+        <StyledImg4
+        src={"/config/images/punks2.png"}
+        >
+        </StyledImg4>
         </div>
 
 
